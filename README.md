@@ -1,1 +1,3 @@
-Este es un repositorio de prueba
+Esto es prueba del ejercicio 6 del Homework
+
+Jimena Calvino
