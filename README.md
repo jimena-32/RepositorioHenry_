@@ -1,3 +1,3 @@
-Esto es prueba del ejercicio 6 del Homework
+Esta es una prueba de commit
 
-Jimena Calvino 2023
+jimena calvino
